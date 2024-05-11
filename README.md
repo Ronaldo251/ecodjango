@@ -6,7 +6,7 @@ cd django-simple-ecommerce
 
 python -m venv venv
 
-venv\Scripts\activate.bat 
+venv\Scripts\activate
 
 python -m pip install --upgrade pip setuptools wheel --user
 
